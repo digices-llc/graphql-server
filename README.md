@@ -1,2 +1,3 @@
-# graphql-server
-GraphQL Server Implementation
+# GraphQL Server #
+
+_GraphQL Server Implementation_
