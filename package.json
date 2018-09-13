@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/digices-llc/graphql-server/issues"
   },
-  "homepage": "https://github.com/digices-llc/graphql-server#readme"
+  "homepage": "https://github.com/digices-llc/graphql-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
