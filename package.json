@@ -1,0 +1,23 @@
+{
+  "name": "graphql-server",
+  "version": "0.1.0",
+  "description": "GraphQL Server Implementation Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digices-llc/graphql-server.git"
+  },
+  "keywords": [
+    "express",
+    "graphql"
+  ],
+  "author": "Roderic Linguri <linguri@digices.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digices-llc/graphql-server/issues"
+  },
+  "homepage": "https://github.com/digices-llc/graphql-server#readme"
+}
